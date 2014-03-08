@@ -16,3 +16,23 @@
 *.exe
 *.out
 *.app
+
+# Visual Stdio files
+*.sln
+*.tlog
+*.ilk
+*.pdb
+*.opensdf
+*.sdf
+*.suo
+*.manifest
+*.res
+*.log
+*.rc
+*.lastbuildstate
+*.idb
+*.user
+*.vcxproj
+*.ipch
+*.filters
+*.obj
